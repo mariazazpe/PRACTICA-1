@@ -1,0 +1,150 @@
+DATABASE NAME 	DESCRIPTION	FIELD SIZE	DATA TYPE	DATA CODES	
+MOSTYPE	Customer Subtype 	2	Categórica	Value L0	
+				1 - High Income, expensive child	
+				2 - Very Important Provincials	
+				3 - High status seniors	
+				4 - Affluent senior apartments	
+				5 - Mixed seniors	
+				6 - Career and childcare	
+				7 - Dinki's (double income no kids)	
+				8 - Middle class families	
+				9 - Modern, complete families	
+				10 - Stable family	
+				11 - Family starters	
+				12 - Affluent young families	
+				13 - Young all american family	
+				14 - Junior cosmopolitan	
+				15 - Senior cosmopolitans	
+				16 - Students in apartments	
+				17 - Fresh masters in the city	
+				18 - Single youth	
+				19 - Suburban youth	
+				20 - Etnically diverse	
+				21 - Young urban have-nots	
+				22 - Mixed apartment dwellers	
+				23 - Young and rising	
+				24 - Young, low educated 	
+				25 - Young seniors in the city	
+				26 - Own home elderly	
+				27 - Seniors in apartments	
+				28 - Residential elderly	
+				29 - Porchless seniors: no front yard	
+				30 - Religious elderly singles	
+				31 - Low income catholics	
+				32 - Mixed seniors	
+				33 - Lower class large families	
+				34 - Large family, employed child	
+				35 - Village families	
+				36 - Couples with teens 'Married with children'	
+				37 - Mixed small town dwellers	
+				38 - Traditional families	
+				39 - Large religous families	
+				40 - Large family farms	
+				41 - Mixed rurals	
+MAANTHUI	Number of houses	2	Numérica continua	1, 2, 3, 4, 5, 6, 7, 8, 9,10	
+MGEMOMV	Avg size household	1	Categórica	1, 2, 3, 4, 5, 6	
+MGEMLEEF	Avg age	1	Categórica	Value L1	
+				1 - 20-30 years	
+				2 - 30-40 years	
+				3 - 40-50 years	
+				4 - 50-60 years	
+				5 - 60-70 years	
+				6 - 70-80 years	
+MOSHOOFD	Customer main type	2	Categórica	Value L2	
+				1 - Successful hedonists	
+				2 - Driven Growers	
+				3 - Average Family	
+				4 - Career Loners	
+				5 - Living well	
+				6 - Cruising Seniors	
+				7 - Retired and Religeous	
+				8 - Family with grown ups	
+				9 - Conservative families	
+				10 - Farmers	
+MRELGE	Married	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+MRELSA	Living together	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7	
+MRELOV	Other relation	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+MFALLEEN	Singles	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+MFGEKIND	Household without children	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MFWEKIND	Household with children	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MOPLHOOG	High level education	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MOPLMIDD	Medium level education	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MOPLLAAG	Lower level education	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MBERHOOG	High status	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MBERZELF	Entrepreneur	1	Categórica	0, 1, 2, 3, 4, 5	
+MBERBOER	Farmer	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MBERMIDD	Middle management	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MBERARBG	Skilled labourers	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MBERARBO	Unskilled labourers	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MSKA	Social class A	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MSKB1	Social class B1	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MSKB2	Social class B2	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MSKC	Social class C	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MSKD	Social class D	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 9,	
+MHHUUR	Rented house	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+MHKOOP	Home owners	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MAUT1	1 car	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7, 8, 9,	
+MAUT2	2 cars	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7	
+MAUT0	No car	1	Numérica continua	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+MZFONDS	National Health Service	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8,9,	
+MZPART	Private health insurance	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8,9,	
+MINKM30	Income < 30.000	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8,9,	
+MINK3045	Income 30-45.000	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8,9,	
+MINK4575	Income 45-75.000	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8,9,	
+MINK7512	Income 75-122.000	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8,9,	
+MINK123M	Income >123.000	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7,9,	
+MINKGEM	Average income	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+MKOOPKLA	Purchasing power class	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8	
+PWAPART	Contribution private third party insurance	1	Categórica	Value L4	
+				0: -	
+				1: 1 - 49	
+				2: 50 - 99	
+				3: 100 - 199	
+				4: 200- 499	
+				5: 500 - 999	
+				6: 1000 - 4999	
+				7: 5000 - 9999	
+				8: 10000 - 19999	
+				9: 20000 - 	
+PWABEDR	Contribution third party insurance (firms) 	1	Categórica	0, 1, 2, 3, 4, 5, 6	
+PWALAND	Contribution third party insurane (agriculture)	1	Categórica	0, 2, 3, 4	
+PPERSAUT	Contribution car policies	1	Categórica	0, 4, 5, 6, 7, 8	
+PBESAUT	Contribution delivery van policies	1	Categórica	0, 5, 6, 7	
+PMOTSCO	Contribution motorcycle/scooter policies	1	Categórica	0, 3, 4, 5, 6, 7	
+PVRAAUT	Contribution lorry policies	1	Categórica	0, 4, 6, 9	
+PAANHANG	Contribution trailer policies	1	Categórica	0, 1, 2, 3, 4, 5	
+PTRACTOR	Contribution tractor policies	1	Categórica	0, 3, 4, 5, 6	
+PWERKT	Contribution agricultural machines policies 	1	Categórica	0, 2, 3, 4, 6	
+PBROM	Contribution moped policies	1	Categórica	0, 2, 3, 4, 5, 6, 	
+PLEVEN	Contribution life insurances	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8, 9	
+PPERSONG	Contribution private accident insurance policies	1	Categórica	0, 1, 2, 3, 4, 5, 6	
+PGEZONG	Contribution family accidents insurance policies	1	Categórica	0, 2, 3	
+PWAOREG	Contribution disability insurance policies	1	Categórica	0, 4, 5, 6, 7	
+PBRAND	Contribution fire policies	1	Categórica	0, 1, 2, 3, 4, 5, 6, 7, 8	
+PZEILPL	Contribution surfboard policies	1	Categórica	0, 1, 3	
+PPLEZIER	Contribution boat policies	1	Categórica	0, 1, 2, 3, 4, 5, 6	
+PFIETS	Contribution bicycle policies	1	Categórica	0, 1	
+PINBOED	Contribution property insurance policies	1	Categórica	0, 1, 2, 3, 4, 5, 6	
+PBYSTAND	Contribution social security insurance policies	1	Categórica	0, 1, 2, 3, 4, 5	
+AWAPART	Number of private third party insurance 	1	Numérica continua	0, 1, 2	
+AWABEDR	Number of third party insurance (firms) 	1	Numérica continua	0, 1, 5	
+AWALAND	Number of third party insurane 	1	Numérica continua	0, 1	
+APERSAUT	Number of car policies	1	Numérica continua	0, 1, 2, 3, 4, 6, 7	
+ABESAUT	Number of delivery van policies	1	Numérica continua	0, 1, 2, 3, 4	
+AMOTSCO	Number of motorcycle/scooter policies	1	Numérica continua	0, 1, 2, 8	
+AVRAAUT	Number of lorry policies	1	Numérica continua	0, 1, 2, 3	
+AAANHANG	Number of trailer policies	1	Numérica continua	0, 1, 2, 3	
+ATRACTOR	Number of tractor policies	1	Numérica continua	0, 1, 2, 3, 4	
+AWERKT	Number of agricultural machines policies	1	Numérica continua	0, 1, 2, 3, 6	
+ABROM	Number of moped policies	1	Categórica	0, 1, 2	
+ALEVEN	Number of life insurances	1	Categórica	0, 1, 2, 3, 4, 8	
+APERSONG	Number of private accident insurance policies	1	Categórica	0, 1	
+AGEZONG	Number of family accidents insurance policies	1	Categórica	0, 1	
+AWAOREG	Number of disability insurance policies	1	Categórica	0, 1, 2	
+ABRAND	Number of fire policies	1	Categórica	0, 1, 2, 3, 4, 5, 7	
+AZEILPL	Number of surfboard policies	1	Numérica continua	0, 1	
+APLEZIER	Number of boat policies	1	Numérica continua	0, 1, 2	
+AFIETS	Number of bicycle policies	1	Numérica continua	0, 1, 2, 3	
+AINBOED	Number of property insurance policies	1	Numérica continua	0, 1, 2	
+ABYSTAND	Number of social security insurance policies	1	Numérica continua	0, 1, 2	
+CARAVAN	Number of mobile home policies 	1	Categórica	0,1 	
